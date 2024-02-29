@@ -1,4 +1,4 @@
 - 👋 Привет я @vkhainousky
 - 👀 Я интересуюсь в программировании
 - 🌱 Я изучаю/изучил: Python, Java, Javascript, Unity C#, C#, HTML, CSS, JS, PHP
-- 🌐 Мой сайт: https://www.vkhainousky.rf.gd/
+- 🌐 Мой сайт: https://www.vkhainousky.su/
